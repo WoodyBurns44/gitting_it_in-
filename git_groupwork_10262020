@@ -1,0 +1,16 @@
+How do you see the files changed within each commit using GitHub Desktop GUI?
+
+The file changes appear on the left side of the GH desktop portal. If you click on the change, you can view specific information about the changes.  
+
+How do you see the contents of what changed within each file for a commit?
+
+You can click on 'History' on the GH desktop portal to view all of the instances of changes being made, 
+then you can click on an instance to see specifics about what was changed within the document. 
+
+How do you revert (backout) a commit?
+
+You can click 'undo' right before you commit. In your terminal, you can use 'reset' followed by the version you want to recert to in order to reset to that version. 
+
+What does HEAD refer to in the context of git?
+
+The HEAD referes to the current branc you are checking out or working on. By default, the HEAD refers to the master branch. 
